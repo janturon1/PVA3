@@ -1,7 +1,7 @@
 #include <cstdio>
 
 const char* toUpper(const char* input) {
-	// TO DO
+	aaa
 }
 
 int main() {
